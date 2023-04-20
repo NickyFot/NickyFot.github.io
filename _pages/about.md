@@ -16,5 +16,6 @@ connected to the industry thanks to my prior 7-year career in the field.
 
 News
 ======
-July 2022: Paper accepted at ACM Multimedia 2022
-July 2021: Paper accepted at ACII 2021
+**July 2022**: Paper accepted at ACM Multimedia 2022
+
+**July 2021**: Paper accepted at ACII 2021
