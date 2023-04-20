@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Deep Learning for affect estimation and mental illness severity estimationy, Queen Mary University of London, 2023 (expected)
+  *  Funded by EPSRC-UKRI studentship.
+  *  Supervisor : [Prof. Ioannis Patras](https://sites.google.com/view/ioannispatras/home)
 * M.Sc Computer Science, Queen Mary University of London, 2018 **Distinction**
 * B.S. Economics (Hons), Queen Mary University of London, 2012
 
