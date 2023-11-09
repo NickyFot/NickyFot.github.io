@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+|**EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition** <br> N. M. Foteinopoulou, I. Patras <br>[Arxiv](https://arxiv.org/abs/2310.16640), [Code](https://github.com/NickyFot/EmoCLIP)| <img src="/images/emoclip_graphical.png" width=500> |
+
+|**Machine Learning Approaches for Fine-Grained Symptom Estimation in Schizophrenia: A Comprehensive Review** <br> N. M. Foteinopoulou, I. Patras <br>[Arxiv](https://arxiv.org/abs/2310.16677)|
+
 |**Learning from Label Relationships in Human Affect** <br> N. M. Foteinopoulou, I. Patras <br> ACM MM '22 <br>[Arxiv](https://arxiv.org/abs/2207.05577), [Proceedings](https://dl.acm.org/doi/abs/10.1145/3503161.3548373), [Code](https://github.com/NickyFot/ACMMM22_LearningLabelRelationships)| <img src="/images/acmmm22_summary.png" width=500> |
 
 |**Estimating continuous affect with label uncertainty** <br> N. M. Foteinopoulou, C. Tzelepis, I. Patras <br> ACII '21 <br>[Proceedings]([https://arxiv.org/abs/2207.05577](https://ieeexplore.ieee.org/document/9597425))| <img src="/images/noisyaffectnet(1).png" width=500>  |
