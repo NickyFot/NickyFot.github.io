@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Deep Learning for affect estimation and mental illness severity estimationy, Queen Mary University of London, 2023 (expected)
+* Ph.D in Deep Learning for affect estimation and mental illness severity estimation, Queen Mary University of London, 2023
   *  Funded by EPSRC-UKRI studentship.
   *  Supervisor : [Prof. Ioannis Patras](https://sites.google.com/view/ioannispatras/home)
 * M.Sc Computer Science, Queen Mary University of London, 2018 **Distinction**
 * B.S. Economics (Hons), Queen Mary University of London, 2012
+
+Research experience
+======
+* Feb 2024 - Current: Postdoc Researcher
+  * SnT, University of Luxembourg
 
 Work experience
 ======
@@ -41,7 +46,7 @@ Work experience
 
 Teaching experience
 ======
-* September 2022 - September 2023: Teaching Fellow
+* September 2022 - September 2024: Teaching Fellow
   *  Queen Mary University of London
   *  Provided module-specific teaching support for Machine Learning (ECS708)
   * Supervised 8 MSc students for their final projects.
