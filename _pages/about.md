@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-As a PhD candidate in Computer Science, I am currently in the final stages of my studies and expect to submit my thesis by Sep-
-tember 2023. My research interests center around affect estimation, facial expression recognition, and mental health symptom
-estimation, with a primary focus on utilizing video input. Through my work, I have had the privilege of publishing papers in top-
-tier conferences within my field. Additionally, I have gained experience in teaching and supervising MSc students, and I remain
-connected to the industry thanks to my prior 7-year career in the field.
+My research interests are around human-centric AI, computer vision and vision & language models. I currently serve as a Postdoctoral Researcher at the University of Luxembourg, where I focus on deepfake detection. Previously, during my PhD at QMUL my research emphasis was on affect estimation, facial expression recognition, and mental health symptom estimation through video analysis. My work has been shared in top-tier conferences within my field, and I've been fortunate to engage in teaching and mentoring MSc students alongside my research. Before joining academia, I spent seven years in the industry, which has provided valuable insights into practical applications.
+
+Thank you for taking the time to visit my website. Feel free to explore further!
 
 News
 ======
