@@ -14,6 +14,7 @@ Thank you for taking the time to visit my website. Feel free to explore further!
 
 News
 ======
+**September 2024**: [Paper]([https://arxiv.org/abs/](https://nickyfot.github.io/hitchhickersguide.github.io/)) accepted at NeurIPS'2024
 
 **March 2024**: [Paper](https://arxiv.org/abs/2310.16640) accepted at FG'2024
 
