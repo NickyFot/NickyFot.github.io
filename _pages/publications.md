@@ -4,9 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+|**VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning** <br> Alexandros Xenos^, Niki Maria Foteinopoulou^, Ioanna Ntinou^, Ioannis Patras and Georgios Tzimiropoulos (^Denotes equal contribution) <br> IJCNN '25 <br>[Arxiv](https://arxiv.org/abs/2404.07078), [Code](https://github.com/NickyFot/EmoCommonSense)| <img src="/images/thumbnail_arxiv2024.jpg" width="100"  height="auto"> |
+
 |**A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning** <br> Niki Maria Foteinopoulou, Enjie Ghorbel, Djamila Aouada<br> NeurIPS '24 <br>[Arxiv](https://arxiv.org/), [Code](https://github.com/NickyFot/HitchhikersGuide)| <img src="/images/thumbnail_neurips2024.jpg" width="100"  height="auto"> |
 
-|**VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning** <br> Alexandros Xenos^, Niki Maria Foteinopoulou^, Ioanna Ntinou^, Ioannis Patras and Georgios Tzimiropoulos (^Denotes equal contribution) <br>[Arxiv](https://arxiv.org/abs/2404.07078), [Code](https://github.com/NickyFot/EmoCommonSense)| <img src="/images/thumbnail_arxiv2024.jpg" width="100"  height="auto"> |
 
 |**EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition** <br> N. M. Foteinopoulou, I. Patras <br> FG '24 <br>[Arxiv](https://arxiv.org/abs/2310.16640), [Code](https://github.com/NickyFot/EmoCLIP)| <img src="/images/thumbnail_fg2024.jpg" width="100"  height="auto"> |
 
