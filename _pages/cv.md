@@ -19,7 +19,9 @@ Education
 
 Research experience
 ======
-* Feb 2024 - Current: Postdoc Researcher
+* Feb 2025: Research Scientist
+  * Cambridge Research Laboratory, Toshiba Europe 
+* Feb 2024 - Jan 2025: Postdoc Researcher
   * SnT, University of Luxembourg
 
 Work experience
@@ -46,6 +48,10 @@ Work experience
 
 Teaching experience
 ======
+* January 2025 - Current: Visiting Lecturer
+  * City University of London
+  * Teaching Computer Vision
+  * Supervision of 5 MSc students for their final projects. 
 * September 2022 - September 2024: Teaching Fellow
   *  Queen Mary University of London
   *  Provided module-specific teaching support for Machine Learning (ECS708)
