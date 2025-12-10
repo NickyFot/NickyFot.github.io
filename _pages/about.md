@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
- I am currently a Research Scientist at Toshiba Europe in Cambridge, UK, where I focus on advancing Multi-Merging of Foundation Models for Continuous Learning applied in generative models. My work explores novel approaches to combining reasoning across different modalities, merging models trained on diverse datasets or architectures, and enhancing continuous learning capabilities. In addition, I serve as a Visiting Lecturer at City University of London, where I teach "Deep Learning for Image Analysis" and supervise MSc thesis projects. Previously, I was a Postdoctoral Researcher at the University of Luxembourg and a PhD at Queen Mary University of London. My expertise spans machine learning, multi-modal AI, and human-centred approaches, with a strong foundation in both academic research and industry applications.
+ I am currently a Research Scientist at Tavus in London, UK, where I focus on advancing Conversational Agents. In addition, I serve as a Visiting Lecturer at City University of London, where I teach "Deep Learning for Image Analysis" and supervise MSc thesis projects. Previously, I was a Postdoctoral Researcher at the University of Luxembourg and a PhD at Queen Mary University of London. My expertise spans machine learning, multi-modal AI, and human-centred approaches, with a strong foundation in both academic research and industry applications.
 
-Thank you for taking the time to visit my website. Feel free to explore further!
+Thank you for taking the time to visit my website - feel free to explore my [publications](/publications/), [projects](/projects/), and [CV](/cv/).
 
 News
 ======
-**July 2024**: Co-chair @ BMVA Symposium on AI Security [Site](https://www.bmva.org/meetings/25-07-16-AISecurity.html) 
+**December 2025**: Delivered Seminar on Intrinsic Concept Control in Diffusion Models: LoRA Composition and Training-Free Image Editing, University of Oxford
+
+**August 2025**: Paper Announcement: We’re thrilled to share that [CAD-Assistant](https://openaccess.thecvf.com/content/ICCV2025/papers/Mallis_CAD-Assistant_Tool-Augmented_VLLMs_as_Generic_CAD_Task_Solvers_ICCV_2025_paper.pdf) is accepted at ICCV 2025.
+
+**July 2025**: Co-chair @ BMVA Symposium on AI Security [Site](https://www.bmva.org/meetings/25-07-16-AISecurity.html) 
+
+**April 2025**: [Paper](https://arxiv.org/abs/2404.07078) accepted at IJCNN!
 
 **September 2024**: [Paper]([https://arxiv.org/abs/](https://nickyfot.github.io/hitchhickersguide.github.io/)) accepted at NeurIPS'2024
 
