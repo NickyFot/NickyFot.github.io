@@ -4,6 +4,18 @@ import Layout from "@/components/Layout";
 
 const publications = [
   {
+    title: "Training-Free Multi-Concept Image Editing",
+    authors: "N. Foteinopoulou, I. Budvytis, S. Liwicki",
+    venue: "Preprint",
+    arxiv: "https://arxiv.org/abs/2602.20839",
+  },
+  {
+    title: "LoRAtorio: An intrinsic approach to LoRA Skill Composition",
+    authors: "N. Foteinopoulou, I. Budvytis, S. Liwicki",
+    venue: "Preprint",
+    arxiv: "https://arxiv.org/abs/2508.11624",
+  },
+  {
     title: "VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning",
     authors: "Alexandros Xenos*, Niki Maria Foteinopoulou*, Ioanna Ntinou*, Ioannis Patras, Georgios Tzimiropoulos",
     venue: "IJCNN 2025",
@@ -15,8 +27,14 @@ const publications = [
     title: "A Hitchhiker's Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning",
     authors: "Niki Maria Foteinopoulou, Enjie Ghorbel, Djamila Aouada",
     venue: "NeurIPS 2024",
-    arxiv: "https://arxiv.org/",
+    proceedings: "https://proceedings.neurips.cc/paper_files/paper/2024/hash/059d2b9188cdb7ae00f4d78cc9469704-Abstract-Datasets_and_Benchmarks_Track.html",
     code: "https://github.com/NickyFot/HitchhikersGuide",
+  },
+  {
+    title: "CAD-assistant: tool-augmented vllms as generic cad task solvers",
+    authors: "D. Mallis, A. S. Karadeniz, S. Cavada, D. Rukhovich, N. Foteinopoulou, K. Cherenkova, A. Kacem, D. Aouada",
+    venue: "ICCV 2025",
+    proceedings: "https://openaccess.thecvf.com/content/ICCV2025/html/Mallis_CAD-Assistant_Tool-Augmented_VLLMs_as_Generic_CAD_Task_Solvers_ICCV_2025_paper.html",
   },
   {
     title: "EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition",
@@ -28,7 +46,7 @@ const publications = [
   {
     title: "Machine Learning Approaches for Fine-Grained Symptom Estimation in Schizophrenia: A Comprehensive Review",
     authors: "N. M. Foteinopoulou, I. Patras",
-    venue: "Preprint",
+    venue: "Artificial Intelligence in Medicine",
     arxiv: "https://arxiv.org/abs/2310.16677",
   },
   {
@@ -38,6 +56,13 @@ const publications = [
     arxiv: "https://arxiv.org/abs/2207.05577",
     code: "https://github.com/NickyFot/ACMMM22_LearningLabelRelationships",
     proceedings: "https://dl.acm.org/doi/abs/10.1145/3503161.3548373",
+  },
+  {
+    title: "Estimating continuous affect with label uncertainty",
+    authors: "N. Foteinopoulou, C. Tzelepis, I. Patras",
+    venue: "ACII 2021",
+    arxiv: "https://arxiv.org/abs/2207.05577",
+    proceedings: "https://ieeexplore.ieee.org/abstract/document/9597425",
   },
 ];
 
