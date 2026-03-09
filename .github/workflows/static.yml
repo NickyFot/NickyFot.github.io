@@ -41,7 +41,7 @@ jobs:
 
       # 2. Install dependencies (matches your npm i)
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
       # 3. Build the Vite project
       - name: Build project
