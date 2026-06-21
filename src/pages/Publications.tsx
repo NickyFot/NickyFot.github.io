@@ -1,13 +1,14 @@
 import { motion } from "framer-motion";
-import { ExternalLink, Code } from "lucide-react";
+import { ExternalLink, Code, Globe } from "lucide-react";
 import Layout from "@/components/Layout";
 
 const publications = [
   {
     title: "Training-Free Multi-Concept Image Editing",
     authors: "N. Foteinopoulou, I. Budvytis, S. Liwicki",
-    venue: "Preprint",
+    venue: "ECCV 2026",
     arxiv: "https://arxiv.org/abs/2602.20839",
+    project: "https://nickyfot.github.io/cds/",
   },
   {
     title: "LoRAtorio: An intrinsic approach to LoRA Skill Composition",
@@ -95,6 +96,11 @@ const Publications = () => (
               {pub.arxiv && (
                 <a href={pub.arxiv} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs link-accent">
                   <ExternalLink className="h-3 w-3" /> arXiv
+                </a>
+              )}
+              {pub.project && (
+                <a href={pub.project} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs link-accent">
+                  <Globe className="h-3 w-3" /> Project Page
                 </a>
               )}
               {pub.code && (
