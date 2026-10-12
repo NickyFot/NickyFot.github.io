@@ -11,6 +11,7 @@ const socialLinks = [
 ];
 
 const news = [
+  { date: "Sep 2026", text: "LoRAtorio accepted at NeurIPS 2026!", link: "https://nickyfot.github.io/loratorio-skill-composer/" },
   { date: "Jun 2026", text: "CDS accepted at ECCV 2026!", link: "https://nickyfot.github.io/cds/" },
   { date: "Dec 2025", text: "Delivered Seminar on Intrinsic Concept Control in Diffusion Models at University of Oxford" },
   { date: "Aug 2025", text: "CAD-Assistant accepted at ICCV 2025", link: "https://openaccess.thecvf.com/content/ICCV2025/papers/Mallis_CAD-Assistant_Tool-Augmented_VLLMs_as_Generic_CAD_Task_Solvers_ICCV_2025_paper.pdf" },

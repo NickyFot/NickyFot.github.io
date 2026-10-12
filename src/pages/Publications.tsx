@@ -4,17 +4,18 @@ import Layout from "@/components/Layout";
 
 const publications = [
   {
+    title: "LoRAtorio: An intrinsic approach to LoRA Skill Composition",
+    authors: "N. Foteinopoulou, I. Budvytis, S. Liwicki",
+    venue: "NeurIPS 2026",
+    arxiv: "https://arxiv.org/abs/2508.11624",
+    project: "https://nickyfot.github.io/loratorio-skill-composer/",
+  },
+  {
     title: "Training-Free Multi-Concept Image Editing",
     authors: "N. Foteinopoulou, I. Budvytis, S. Liwicki",
     venue: "ECCV 2026",
     arxiv: "https://arxiv.org/abs/2602.20839",
     project: "https://nickyfot.github.io/cds/",
-  },
-  {
-    title: "LoRAtorio: An intrinsic approach to LoRA Skill Composition",
-    authors: "N. Foteinopoulou, I. Budvytis, S. Liwicki",
-    venue: "Preprint",
-    arxiv: "https://arxiv.org/abs/2508.11624",
   },
   {
     title: "VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning",
